@@ -12,7 +12,7 @@ the first argument to beCool is "Mary", then the function should return
 // console.log(beCool("The world"));  // "The world is cool!"
 console.log("WEOOOOO")
 /******************** DO NOT MODIFY ANY CODE BELOW THIS LINE *****************/
-
+console.log("asjdsaljdjsadlajsdalsj");
 
 //kashdkshd
 module.exports = beCool;
