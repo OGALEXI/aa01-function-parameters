@@ -13,5 +13,7 @@ console.log.
 // hello("Helen"); // "Hello, Helen"
 // hello("Sting"); // "Hello, Sting"
 
+console.log("gajhjsadkjsa");
+
 /******************** DO NOT MODIFY ANY CODE BELOW THIS LINE *****************/
 module.exports = hello;
